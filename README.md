@@ -218,3 +218,4 @@ The system is initialized with the following default users:
 - Email notifications are sent when payslips are approved
 - The system prevents duplicate payroll generation for the same employee in the same month/year
 - Deductions are calculated based on the base salary according to the specified percentages# then
+# then
